@@ -1,4 +1,4 @@
-# `STROOP_EFFECT` The Ultimate Game 
+## About the Game 
 This Stroop's Game is a classic neuropsychological test used to assess our brains' ability to inhibit cognitive interference when a mismatch in stimuli and task occurs.
 <br>
 To run the game's script ***Stroop.py***, first install pygame (assume python3 is already there): 
