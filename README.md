@@ -8,7 +8,7 @@ To run the game's script ***Stroop.py***, first install pygame (assume python3 i
 
 Then just run the script and follow the instruction in terminal.
 
-> python3 Stoop.py
+> python3 Stroop.py
 
 Upon initialization, in terminal, custom difficulty settiings including these two dimensions:
 - number of colors (4, 5, 6, 7) used in the test
