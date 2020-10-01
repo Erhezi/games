@@ -10,7 +10,6 @@ Then just run the script and follow the instruction in terminal.
 
 > python3 Stoop.py
 
-<br>
 After initialized, in terminal, first custom difficulty settiings include two dimensions:
 - number of colors (4, 5, 6, 7) used in the test
 - difficulty mode (easy, normal) where easy mode make sure the top card always displayed in blacks
